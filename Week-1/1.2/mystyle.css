@@ -1,0 +1,159 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.container-style {
+    font-family: Lato;
+    /* margin: auto; */
+    background-color: rgb(65, 65, 59);
+    margin-left: 53px;
+    margin-top: -599px;
+    margin-bottom: 8px;
+    padding: 10px;
+    width: 96%;
+    height: 330px;
+}
+
+.icon {
+    padding: 11px;
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0%;
+    margin-top: 10px;
+    width: 60px;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    background-color: #dddddd;
+    margin-top: 50px;
+}
+
+.table-content {
+    margin-top: -18px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 19px;
+    margin-left: 43px;
+}
+
+.main-img {
+    margin-left: 18px;
+    margin-top: 33px;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table::after {
+    padding: 10px;
+    margin: auto;
+}
+
+
+/* 
+h2 {
+
+}
+
+h5 {
+    color: #dddddd;
+    margin-left: 340px;
+    font-family: sans-serif;
+} */
+
+img {
+    margin-left: 10px;
+}
+
+button {
+    color: blue;
+    margin-left: 5px;
+}
+
+.main-img2 {
+    background: rgb(37, 37, 146);
+}
+
+.main-content {
+    color: #dddddd;
+    font-family: sans-serif;
+    margin-top: 30px;
+    margin-left: -402px;
+}
+
+.ul-li-cls {
+    display: inline;
+    padding: 10px 20px;
+    display: inline-block;
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    /* display: inline-block; */
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+    margin-left: 64px;
+    margin-top: -157px;
+    color: #dddddd;
+    margin-top: 10px;
+}
+
+.ul-cls {
+    display: flex;
+    margin-left: 845px;
+    margin-top: -94px;
+}
+
+.footer-text {
+    margin-left: -1200px;
+    margin-top: 41px;
+    color: #dddddd;
+    font-family: sans-serif;
+}
+
+.footer-img {
+    margin-top: 13px;
+}
+
+.bg-style {
+    background: rgb(37, 37, 146);
+    /* margin-top: 71px; */
+    height: 158px;
+}
+
+.Footer {
+    margin-left: 45px;
+    margin-top: 100px;
+}
